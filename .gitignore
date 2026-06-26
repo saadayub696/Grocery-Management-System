@@ -1,0 +1,8 @@
+# Ignore Windows executable binaries
+*.exe
+
+# Ignore local build configurations
+.vscode/
+
+# Ignore local auto-generated text summaries
+purchase_summary.txt
