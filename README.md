@@ -1,3 +1,10 @@
+## 👤 Author
+
+- **Saad Ayub** 
+  - Computer Science & Engineering Student at UET Lahore
+  - GitHub: [@saadayub696](https://github.com/saadayub696)
+
+  
 # Grocery Management System
 
 A console-based C++ application designed to simulate an interactive grocery shopping experience. The program allows users to set a budget, browse distinct product categories, manage a virtual shopping cart, and automatically generate a localized text file summary of their purchases upon checkout.
