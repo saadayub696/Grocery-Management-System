@@ -33,7 +33,7 @@ The system relies on clean OOP principles leveraging class hierarchy and encapsu
 Make sure you have a C++ compiler installed (e.g., `g++` via MinGW for Windows).
 
 ### Running the Project Locally
-1. **Clone the repository:**
+1. Clone the repository:
    ```bash
    git clone [https://github.com/saadayub696/Grocery-Management-System.git](https://github.com/saadayub696/Grocery-Management-System.git)
    cd Grocery-Management-System
