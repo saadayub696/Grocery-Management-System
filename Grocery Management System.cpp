@@ -1,3 +1,17 @@
+/*****************************************************************
+ * @file        Grocery Management System.cpp
+ * @brief       Interactive Console-Based Grocery Shopping Application
+ * @author      Saad Ayub
+ * @institution UET Lahore (University of Engineering and Technology)
+ * @department  Computer Science and Engineering
+ * @date        June 2026
+ * 
+ * @details     An object-oriented C++ program utilizing class inheritance, 
+ *              encapsulation, and dynamic vector stream structures to 
+ *              simulate real-time inventory and shopping cart management.
+ *****************************************************************/
+
+
 #include <iostream>
 #include <string>
 #include <iomanip>
